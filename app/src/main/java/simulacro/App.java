@@ -58,7 +58,7 @@ public class App {
             potencia = voltaje * corriente;
             return potencia;
         } 
-        
+    
         catch (Exception e) {
             return 0;
         }
